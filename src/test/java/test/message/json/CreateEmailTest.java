@@ -1,7 +1,7 @@
 package test.message.json;
 
 import static org.junit.Assert.*;
-import main.message.json.CreateEmail;
+import co.uk.travelplaces.message.json.CreateEmail;
 
 import org.junit.Test;
 

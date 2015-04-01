@@ -1,8 +1,8 @@
-package main.message.json;
+package co.uk.travelplaces.message.json;
 
 import java.util.ArrayList;
 
-import main.message.json.email.Attachment;
+import co.uk.travelplaces.message.json.email.Attachment;
 
 /**
  * Abstraction of and email that generates JSON.

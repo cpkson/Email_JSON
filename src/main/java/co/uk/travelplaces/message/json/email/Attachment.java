@@ -1,4 +1,4 @@
-package main.message.json.email;
+package co.uk.travelplaces.message.json.email;
 
 /**
  * 
