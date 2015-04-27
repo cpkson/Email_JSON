@@ -1,4 +1,4 @@
-package test.message.json;
+package message.json;
 
 import static org.junit.Assert.*;
 import co.uk.travelplaces.message.json.CreateEmail;
