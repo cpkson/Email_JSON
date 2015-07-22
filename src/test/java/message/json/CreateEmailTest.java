@@ -1,9 +1,10 @@
 package message.json;
 
 import static org.junit.Assert.*;
-import co.uk.travelplaces.message.json.CreateEmail;
 
 import org.junit.Test;
+
+import uk.co.parknet.message.json.CreateEmail;
 
 /**
  * Check that email generated is not null or empty
